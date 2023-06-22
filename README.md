@@ -126,7 +126,8 @@ _[Abdullah]_
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](coming son).
+Feel free to check the [issues page]().
+coming soon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
